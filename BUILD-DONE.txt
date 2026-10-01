@@ -1,0 +1,6 @@
+KOML Stagnation Detector build complete
+Test count: 38 passed (python -m pytest -q).
+Local implementation commit hash: 07aeb7edceafd7b0f84e45b16c12d5a02ac1adc6
+The following documentation commit records this completion file.
+
+Built a deterministic CPU-only Python CLI with fixtures, run, report, stalled and audit commands, pure activity/progress rules, strict local JSONL validation, explicit provenance, atomic result/report writes and integrity checks. The labelled 200-record synthetic fixture recovered all 40 planted stagnation windows with zero false positives and exact reconciled totals. The installed end-to-end demo took 0.603114 seconds and JSON report took 0.221179 seconds. Included a hand-written five-record example, acceptance and adversarial tests, README, lessons, measured evidence and the two-week real-use improvement hook. Real-world accuracy and the final evidence-based verdict remain pending that trial. No publishing was performed.
