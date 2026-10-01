@@ -1,0 +1,6 @@
+# Synthetic hand-written five-window example
+{"id":"tiny-1","project":"Synthetic busy window","date":"2026-09-30","as_of":"2026-09-30","synthetic":true,"source":"synthetic_hand_written","activity_count":8,"baseline_completed":1,"completed":1,"baseline_evidence":2,"evidence":2}
+{"id":"tiny-2","project":"Synthetic outcome progress","date":"2026-09-30","as_of":"2026-09-30","synthetic":true,"source":"synthetic_hand_written","activity_count":6,"baseline_completed":1,"completed":2,"baseline_evidence":2,"evidence":2}
+{"id":"tiny-3","project":"Synthetic quiet window","date":"2026-09-30","as_of":"2026-09-30","synthetic":true,"source":"synthetic_hand_written","activity_count":2,"baseline_completed":1,"completed":1,"baseline_evidence":2,"evidence":2}
+{"id":"tiny-4","project":"Synthetic evidence progress","date":"2026-09-30","as_of":"2026-09-30","synthetic":true,"source":"synthetic_hand_written","activity_count":5,"baseline_completed":1,"completed":1,"baseline_evidence":2,"evidence":3}
+{"id":"tiny-5","project":"Synthetic regression","date":"2026-09-30","as_of":"2026-09-30","synthetic":true,"source":"synthetic_hand_written","activity_count":5,"baseline_completed":1,"completed":0,"baseline_evidence":2,"evidence":2}

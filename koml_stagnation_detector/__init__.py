@@ -1,0 +1,1 @@
+"""KOML Stagnation Detector."""

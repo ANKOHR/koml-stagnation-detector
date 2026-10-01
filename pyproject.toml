@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "koml-stagnation-detector"
+version = "0.1.0"
+description = "Deterministic activity-without-progress signals from explicit inputs"
+requires-python = ">=3.10"
+
+[project.scripts]
+ksd = "koml_stagnation_detector.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
